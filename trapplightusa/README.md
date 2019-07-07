@@ -14,7 +14,7 @@ By Ryan Bridglal, www.srbridge.com 2018/2019 update
 --------------------------------------------------------------------------------------
 Package.json file
 
-{
+"{
     "title": "TrapplightUSA",
     "name": "sTrapplightUSA",
     "version": "1",
@@ -58,4 +58,4 @@ Package.json file
         "gulp-sass": "4.0.2",
         "gulp-uglify": "3.0.1"
     }
-}
+}"
