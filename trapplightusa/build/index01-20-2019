@@ -1,0 +1,141 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@ryanjbcom 
+1
+0 0 ryanjbcom/website-TrappLightUSA
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Security  Insights  Settings
+website-TrappLightUSA
+/
+build
+/
+
+index012019.htm
+ 
+
+1
+<!DOCTYPE html>
+2
+<html lang="en">
+3
+​
+4
+<head>
+5
+​
+6
+  <meta charset="utf-8">
+7
+​
+8
+  <!-- Mobile Scale -->
+9
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+10
+​
+11
+  <title>TrapLight USA</title>
+12
+​
+13
+  <meta name="description" content="">
+14
+  <meta name="author" content="">
+15
+​
+16
+  <!-- Call CSS Files-->
+17
+  <link href="css/bootstrap.css" rel="stylesheet">
+18
+  <link href="css/style.css" rel="stylesheet">
+19
+​
+20
+  <link rel="shortcut icon" href="images/icon.ico">
+21
+​
+22
+</head>
+23
+​
+24
+​
+25
+​
+26
+<!-- Start Body -->
+27
+<body>
+28
+​
+29
+​
+30
+​
+31
+   <!-- Header Section/NavBar -->
+32
+   <nav class="navbar navbar-default navbar-fixed-top">
+33
+   <div class="container">
+34
+      <div class="navbar-header">
+35
+         <div class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu">
+36
+            <span class="bar1"></span>
+37
+            <span class="bar2"></span>
+38
+            <span class="bar3"></span>
+39
+         </div>
+40
+​
+41
+      <a class="navbar-contact top" href="#">
+42
+         <img src="img/logo.png" alt="">
+43
+      </a>
+44
+​
+45
+    </div>
+46
+​
+47
+    <div class="collapse navbar-collapse" id="main-menu">
+48
+      <ul class="nav navbar-nav navbar-right">
+49
+         <li><a href="#about">About</a></li>
+@ryanjbcom
+Commit changes
+Commit summary 
+Update index012019.htm
+Optional extended description
+
+Add an optional extended description…
+  Commit directly to the master branch.
+  Create a new branch for this commit and start a pull request. Learn more about pull requests.
+ 
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
