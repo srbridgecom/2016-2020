@@ -466,8 +466,8 @@
 
             <div class="col-sm-4 wow fadeInLeft" data-wow-delay="0.3s">
 	      <div class="contact_icon">
-	        <i class="fa fa-mobile"></i>
-	        <p>949-478-4969</p>
+	        <i class="fa fa-facebook"></i>
+	        <p><a href="http://www.facebook.com/srbridge" target="_target">@srbridge</a></p>
 	      </div>
 	    </div>
 
@@ -502,7 +502,6 @@
     <div class="container">
       <div class="row">
         <div class="social_icon text-center">
-	  <a href="http://www.facebook.com/srbridge" target="_target"><i class="fa fa-facebook"></i></a>
 	  <a href="https://www.linkedin.com/company/srbridge" target="_blank"><i class="fa fa-linkedin"></i></a>
 	</div>
       </div>
