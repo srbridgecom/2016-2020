@@ -460,30 +460,30 @@
           <div class="contact_title section-title wow flipInX" data-wow-delay="0.3s">
             <h1>CONTACT US <br /><br />
             We are a Digital Agency, <br />don't call, send us a message.</h1>
-	  </div>
+	        </div>
 
           <div class="row">
 
-            <div class="col-sm-4 wow fadeInLeft" data-wow-delay="0.3s">
-	      <div class="contact_icon">
-	        <a href="http://www.facebook.com/srbridge" target="_target"><i class="fa fa-facebook"></i></a>
-	        <p>@srbridge</p>
-	      </div>
-	    </div>
+          <div class="col-sm-4 wow fadeInLeft" data-wow-delay="0.3s">
+	          <div class="contact_icon">
+	            <a href="http://www.facebook.com/srbridge" target="_target"><i class="fa fa-facebook"></i></a>
+	            <p>@srbridge</p>
+	          </div>
+	        </div>
 
-            <div class="col-sm-4 wow fadeInUp" data-wow-delay="0.3s">
-	      <div class="contact_icon">
-	        <i class="fa fa-map-marker"></i>
-	        <p>Remote & Vegas, UNITED STATES</p>
-	      </div>
-	    </div>
+          <div class="col-sm-4 wow fadeInUp" data-wow-delay="0.3s">
+	          <div class="contact_icon">
+	            <i class="fa fa-map-marker"></i>
+	            <p>Remote & Vegas, UNITED STATES</p>
+	          </div>
+	        </div>
 
-            <div class="col-sm-4 wow fadeInRight" data-wow-delay="0.3s">
-	      <div class="contact_icon">
-	        <i class="fa fa-envelope-o"></i>
-		<p>support@srbridge.com</p>
-	      </div>
-	    </div>
+          <div class="col-sm-4 wow fadeInRight" data-wow-delay="0.3s">
+	          <div class="contact_icon">
+	            <i class="fa fa-envelope-o"></i>
+		          <p>support@srbridge.com</p>
+	          </div>
+	        </div>
 
           </div><!-- end row -->
 
