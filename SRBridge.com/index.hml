@@ -466,15 +466,15 @@
 
             <div class="col-sm-4 wow fadeInLeft" data-wow-delay="0.3s">
 	      <div class="contact_icon">
-	        <i class="fa fa-facebook"></i>
-	        <p><a href="http://www.facebook.com/srbridge" target="_target">@srbridge</a></p>
+	        <a href="http://www.facebook.com/srbridge" target="_target"><i class="fa fa-facebook"></i></a>
+	        <p>@srbridge</p>
 	      </div>
 	    </div>
 
             <div class="col-sm-4 wow fadeInUp" data-wow-delay="0.3s">
 	      <div class="contact_icon">
 	        <i class="fa fa-map-marker"></i>
-	        <p>We are Remote with an office in Vegas, UNITED STATES</p>
+	        <p>Remote & Vegas, UNITED STATES</p>
 	      </div>
 	    </div>
 
