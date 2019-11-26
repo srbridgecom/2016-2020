@@ -458,8 +458,8 @@
         <div class="col-md-9 col-sm-12 col-text-center text-center">
 
           <div class="contact_title section-title wow flipInX" data-wow-delay="0.3s">
-            <h1>CONTACT US <br />
-            We are a Digital Agency, don't call, send us a message.</h1>
+            <h1>CONTACT US <br /><br />
+            We are a Digital Agency, <br />don't call, send us a message.</h1>
 	  </div>
 
           <div class="row">
