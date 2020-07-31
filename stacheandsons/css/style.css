@@ -1,6 +1,8 @@
 /*!
 Style Sheet for the theme.
 www.srbridge.com
+/* <!--  Built By <a href="http://www.srbridge.com" target="_blank">SRBridge</a>. We Power the Web.  --> */
+
  */
 
 body,
@@ -48,6 +50,10 @@ h6 {
   background-color: #F05F40 !important;
 }
 
+.bg-red {
+  background-color: rgba(255, 0, 0, 0.7); !important;
+}
+
 .bg-dark {
   background-color: #212529 !important;
 }
@@ -59,6 +65,7 @@ h6 {
 .text-blue {
   color: #00008b;
 }
+/* Colors */
 
 
 
@@ -153,8 +160,9 @@ img::-moz-selection {
   #mainNav .navbar-brand {
     color: rgba(0, 0, 139, 0.7);
   }
+  /* upper left name color*/
   #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-    color: #fff;
+    color: #FF0000;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link {
     padding: 0.5rem 1rem;
@@ -163,9 +171,10 @@ img::-moz-selection {
   #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
     color: rgba(0, 0, 139, 0.7);
   }
+  /*upper right menu color*/
   #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-    color: #fff;
+    color: #FF0000;
   }
   #mainNav.navbar-shrink {
     border-bottom: 1px solid rgba(33, 37, 41, 0.1);
@@ -355,3 +364,38 @@ header.masthead p {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
 /* head button */
+
+
+
+/* responsive image banner  */
+.banner {
+    padding: 250px 0;
+    background: url(../img/kitchen.jpg) no-repeat center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+
+  /* responsive image banner  */
+  .banner1 {
+      padding: 250px 0;
+      background: url(../img/laundry.jpg) no-repeat center center;
+      width: 100%;
+      height: 100%;
+      background-size: cover;
+      background-attachment: fixed;
+    }
+
+  /*footer font */
+  div.font15 {
+    font-size: 15px;
+  }
+
+  div.font10 {
+    font-size: 10px;
+  }
+
+
+/* <!--  Built By <a href="http://www.srbridge.com" target="_blank">SRBridge</a>. We Power the Web.  --> */
